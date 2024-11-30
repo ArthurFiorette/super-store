@@ -24,7 +24,7 @@
     "@nestjs/config": "^1.1.5",
     "@nestjs/core": "^8.0.8",
     "@nestjs/event-emitter": "^1.0.0",
-    "@prisma/client": "^3.5.0",
+    "@prisma/client": "^3.9.1",
     "axios": "^0.24.0",
     "axios-cache-interceptor": "^0.6.2",
     "currency-formatter": "^1.5.8",
